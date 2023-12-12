@@ -1,8 +1,13 @@
 ## Contentful CMS
 
-[Contentful CMS](https://ashlynz-contentful-cms.netlify.app)
+An application that uses Contentful CMS for storing the data. This application is developed using react.
 
-#### Install and Setup
+Demo - [Contentful CMS](https://ashlynz-contentful-cms.netlify.app)
 
-- npm install
-- npm run dev
+#### Steps
+
+```sh
+npm install && npm run dev
+```
+
+- visit url http://localhost:5173
